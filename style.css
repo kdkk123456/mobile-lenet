@@ -1,0 +1,56 @@
+body {
+    font-family: 'Stick', sans-serif;
+    background-color: aqua;
+
+}
+.header {
+    background-color: chartreuse;
+    color: chocolate;
+    border: deeppink 5px solid;
+    box-shadow: deeppink 10px 10px 20px;
+}
+.header img {
+    width: 100px;
+}
+.maindiv {
+    background-color: chartreuse;
+    border: deeppink 5px solid;
+    margin-top: 20px;
+    padding: 10px;
+}
+.maindiv label {
+    background-color: greenyellow;
+    width: 300;
+    padding: 10px;
+    margin-bottom: 20px;
+    box-shadow: blueviolet 5px 5px 10px;
+}
+#camera, #snapshot {
+    width: 300px;
+    height: 300px;
+    border: darkorange solid 10px;
+    box-shadow: magenta 10px 10px 20px;
+    margin-bottom: 20px;
+}
+.maindiv button {
+    width:  300px;
+    box-shadow: indianred 10px 10px 20px;
+    border: darkorchid 10px;
+}
+.outputdiv {
+    margin: 50px;
+    border: darkred 5px solid;
+    padding: 10px;
+    box-shadow: gold 10px 10px 20px;
+}
+.outputdiv img {
+    width: 100px;
+}
+#footer {
+    position: fixed;
+    bottom: 0px;
+    background-color: magenta;
+    width: 100%;
+    line-height: 2;
+    font-size: 20px;
+}
